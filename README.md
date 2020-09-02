@@ -31,8 +31,11 @@ Implemented different models for classification of ham-spam mails.
 
 ## Data contest Course Project ##
 In this contest we had to predict the movie rating, the famous netflix challenge.
+
 we tried different collaborative filtering method. Ex-Nearest neighbourhood models, Modified latent factor model.
+
 Our best result came with  Modified latent factor model.
+
 Contest was hosted on kaggle https://www.kaggle.com/c/prml19/leaderboard  .
 
 
