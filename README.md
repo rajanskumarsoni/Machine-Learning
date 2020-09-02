@@ -29,5 +29,11 @@ Implemented following model-
 Implemented different models for classification of ham-spam mails.
 ![picture alt](https://github.com/rajanskumarsoni/Machine-Learning/blob/master/extras/Screenshot%20from%202020-09-03%2002-52-57.png "Title is optional")
 
+## Data contest Course Project ##
+In this contest we had to predict the movie rating, the famous netflix challenge.
+we tried different collaborative filtering method. Ex-Nearest neighbourhood models, Modified latent factor model.
+Our best result came with  Modified latent factor model.
+Contest was hosted on kaggle https://www.kaggle.com/c/prml19/leaderboard  .
+
 
  
