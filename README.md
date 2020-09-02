@@ -20,4 +20,14 @@ Implemented following models-
 * Implemented Baseline methods for collaborative filtering.
 * Implemented EM algorithm for Gaussian Mixture models.
 
+### 2_cs18s038_PA1 Course Project ###
+Implemented following model-
+* Implemented Guassian Mixture Model.
+* Implemented PCA, KPCA.
+
+### 2_cs18s038_PA3 Course Project ###
+Implemented different models for classification of ham-spam mails.
+![picture alt](https://github.com/rajanskumarsoni/Machine-Learning/blob/master/extras/Screenshot%20from%202020-09-03%2002-52-57.png "Title is optional")
+
+
  
